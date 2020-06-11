@@ -1,3 +1,4 @@
+@@ -1,3 +1,17 @@
 class Student 
 class Student < User
 
@@ -15,4 +16,4 @@ class Student < User
     @knowledge
   end
 
-end
+end 
